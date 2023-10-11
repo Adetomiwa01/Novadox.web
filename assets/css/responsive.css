@@ -713,6 +713,11 @@
 }
 
 @media(max-width: 991px) {
+
+    .hero_main {
+        padding-bottom: 10px;
+      }
+
     .container {
         max-width: 720px;
     }
@@ -778,7 +783,7 @@
 
     .hero_main {
         padding-top: 165px;
-        padding-bottom: 500px;
+        padding-bottom: 50px;
     }
 
     .testimonial {
@@ -900,7 +905,7 @@
 
     .hero_main {
         padding-top: 100px;
-        padding-bottom: 450px;
+        padding-bottom: 10px;
     }
 
     .hero_main .content .section_title h1 {
@@ -1793,11 +1798,18 @@
         font-size: 18px;
         line-height: 30px;
     }
+    .hero_main {
+        padding-bottom: 50px;
+    }
 }
 
 @media(max-width: 416px) {
     .hero_main .content .btn_area .bg_btn_color {
         margin-left: 0;
         margin-top: 24px;
+    }
+    .hero_main {
+        padding-bottom: 50px;
+        padding-top: 120px;
     }
 }

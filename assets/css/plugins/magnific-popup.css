@@ -335,6 +335,7 @@
       position: fixed;
       text-align: center;
       padding: 0; } }
+    
   
   @media all and (max-width: 900px) {
     .mfp-arrow {
@@ -349,3 +350,4 @@
     .mfp-container {
       padding-left: 6px;
       padding-right: 6px; } }
+      
