@@ -1,49 +1,4 @@
-/**
- * /*----------------------------------------------------
- * 
- * This file contains the styling for the actual template, this
- * is the file you need to edit to change the look of the
- * template.
- * 
- * 
- * 
- * Table of Content:
- * 01/ reset
- * 02/ variables
- * 03/ hero_sections
- * 04/ buttons
- * 05/ video_popup
- * 06/ service_box
- * 07/ awords
- * 08/ projects 
- * 09/ team 
- * 10/ mix_sections 
- * 11/ testimonial  
- * 12/ counter 
- * 13/ blog 
- * 14/ client 
- * 15/ service_line 
- * 16/ offer_box 
- * 17/ price 
- * 18/ cta 
- * 19/ faq 
- * 20/ progress 
- * 21/ contact 
- * 22/ shop 
- * 23/ header 
- * 24/ breadcrumb 
- * 25/ sidebar 
- * 26/ footer 
- * 
- * 
- * =====================================================================
- *
- * @format
- * @File: Default Styles
- * @Author: PicmaticWeb
- * @URL: Author E-mail:
- * @Default Styles
- */
+
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap");
@@ -56,6 +11,9 @@
 * {
   margin: 0;
   padding: 0;
+}
+.hudson {
+  width: 396px;
 }
 
 body {
