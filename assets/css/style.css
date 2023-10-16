@@ -16,6 +16,10 @@
   width: 396px;
 }
 
+.margin {
+  font-weight: bold;
+}
+
 body {
   font-family: "Inter", sans-serif;
 }
